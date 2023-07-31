@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Django, Fastapi, Pydantic, Cryptocurrency
 - 📫 How to reach me: mamirabadian@gmail.com
 - ⚡ Fun fact: I want to be a `Colporteur`
+
+### :fire: My Stats :
