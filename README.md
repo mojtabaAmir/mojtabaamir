@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ondycal
+- 🔭 I’m currently working on `Ondycal`
 - 🌱 I’m currently learning rust 
 - 👯 I’m looking to collaborate on substrate and ondycal
 - 🤔 I’m looking for help with Ondycal-python and Ondical-rust
