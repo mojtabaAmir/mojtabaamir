@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=mojtabaamir&show_icons=true&theme=omni"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabaamir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
