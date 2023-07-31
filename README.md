@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I want to be a `Colporteur`
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mojtabaamir&theme=dark&background=000000)](https://git.io/streak-stats)
