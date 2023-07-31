@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I want to be a `Colporteur`
 
 ### :fire: My Stats :
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mojtabaamir&show_icons=true&theme=omni"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mojtabaamir&show_icons=true&theme=omni"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabaamir)](https://github.com/anuraghazra/github-readme-stats)
+</p>
