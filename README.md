@@ -19,9 +19,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `Ondycal`
-- 🌱 I’m currently learning rust 
-- 👯 I’m looking to collaborate on substrate and ondycal
-- 🤔 I’m looking for help with Ondycal-python and Ondical-rust
+- 🌱 I’m currently learning `Rust` 
+- 👯 I’m looking to collaborate on substrate and Ondycal
+- 🤔 I’m looking for help with `Ondycal-python`, `Ondical-rust`, `Ondycal-react`
 - 💬 Ask me about Python, Django, Fastapi, Pydantic, Cryptocurrency
 - 📫 How to reach me: mamirabadian@gmail.com
 - ⚡ Fun fact: I want to be a `Colporteur`
